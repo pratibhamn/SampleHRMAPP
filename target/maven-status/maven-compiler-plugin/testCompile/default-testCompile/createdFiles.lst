@@ -1,0 +1,7 @@
+generic\BasePage.class
+generic\BaseTest.class
+scripts\TestScripts.class
+generic\GenericUtils.class
+pom\HomePage.class
+generic\Excel.class
+generic\AutoConst.class

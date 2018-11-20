@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Tilte is matchingOrangeHRM]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25905" started-at="2018-11-16T02:37:59Z" finished-at="2018-11-16T02:38:25Z">
+    <groups>
+    </groups>
+    <test name="firefoxTest" duration-ms="25905" started-at="2018-11-16T02:37:59Z" finished-at="2018-11-16T02:38:25Z">
+      <class name="scripts.TestScripts">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@42dafa95]" name="preCondition" is-config="true" duration-ms="16725" started-at="2018-11-16T08:07:59Z" finished-at="2018-11-16T08:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testCreateEmployee()[pri:0, instance:scripts.TestScripts@42dafa95]" name="testCreateEmployee" duration-ms="9127" started-at="2018-11-16T08:08:16Z" finished-at="2018-11-16T08:08:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Tilte is matchingOrangeHRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateEmployee -->
+        <test-method status="PASS" signature="postmethod()[pri:0, instance:scripts.TestScripts@42dafa95]" name="postmethod" is-config="true" duration-ms="19" started-at="2018-11-16T08:08:25Z" finished-at="2018-11-16T08:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postmethod -->
+      </class> <!-- scripts.TestScripts -->
+    </test> <!-- firefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>

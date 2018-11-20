@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test thread-count="5" name="firefoxTest">
+ <!--  <parameter name="node" value=""
+  <parameter name="browser" value="firefox"/> -->
+    <classes>
+      <class name="scripts.TestScripts"/>
+    </classes>
+  </test> <!-- Test -->
+  <!--  <test thread-count="5" name="chromeTest">
+  <parameter name="node" value=""
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="scripts.TestScripts"/>
+    </classes> 
+  </test> Test -->
+</suite> <!-- Suite -->
